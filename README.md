@@ -1,3 +1,3 @@
 # mikesite
 Website about me 
-https://github.com/michaelmoschitto/mikesite
+http://michaelmoschitto.github.io/mikesite
